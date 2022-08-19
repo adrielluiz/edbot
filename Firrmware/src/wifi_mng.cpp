@@ -6,8 +6,8 @@
 #include "hw.h"
 #include "index.h"
 
-const char* wifi_network_ssid = "Adrielluiz";
-const char* wifi_network_password =  "fla12345";
+const char* wifi_network_ssid = "xxxxxx";
+const char* wifi_network_password =  "xxxxxxxx";
 uint8_t wifi_status = WIFI_DISCONNECT;
 
 WebServer server(80);
